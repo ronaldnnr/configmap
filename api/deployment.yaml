@@ -13,4 +13,4 @@ spec:
     spec:
       containers:
       - name: api
-        image: kubedevio/api-conversao:v1-machine-name
+        image: ronaldsilva/api-conversao:v1-machine-name
